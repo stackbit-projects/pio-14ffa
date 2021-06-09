@@ -22,6 +22,7 @@ sections:
         name: subject
         label: Subject
         default_value: Please select
+        is_required: true
         options:
           - Error on the site
           - Sponsorship
