@@ -13,6 +13,11 @@ sections:
         label: Name
         default_value: Your name
         is_required: true
+    - input_type: checkbox
+        name: consent
+        label: >-
+          I understand that this form is storing my submitted information so I
+          can be contacted.
       - input_type: email
         name: email
         label: Email
