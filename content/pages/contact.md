@@ -17,7 +17,7 @@ sections:
         name: isACompany
         label: >-
           I'm a company
-           - input_type: select
+      - input_type: select
         name: subject
         label: Subject
         default_value: Please select
