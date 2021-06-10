@@ -19,7 +19,7 @@ export default class Advanced extends React.Component {
             <Layout page={page} config={config}>
                 {!hideTitle && (
                     <header className="post-header inner-sm">
-                         
+                        <h1 className="post-title underline">{title}</h1>
                     </header>
                 )}
                 {_.map(sections, (section, index) => {
