@@ -14,7 +14,7 @@ sections:
         default_value: What is your name
         is_required: true
     - input_type: checkbox
-        name: consent
+        name: sadsa
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
