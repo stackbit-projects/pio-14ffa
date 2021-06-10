@@ -14,7 +14,7 @@ sections:
         default_value: What is your name
         is_required: true
       - input_type: checkbox
-        name: sadsa
+        name: isACompany
         label: >-
           I'm a company
       - input_type: email
