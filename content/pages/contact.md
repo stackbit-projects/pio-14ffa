@@ -17,12 +17,7 @@ sections:
         name: isACompany
         label: >-
           I'm a company
-      - input_type: email
-        name: email
-        label: Email
-        default_value: Your email address
-        is_required: true
-      - input_type: select
+           - input_type: select
         name: subject
         label: Subject
         default_value: Please select
@@ -31,6 +26,12 @@ sections:
           - Sponsorship
           - Other
         is_required: true
+      - input_type: email
+        name: email
+        label: Email
+        default_value: Your email address
+        is_required: true
+     
       - input_type: textarea
         name: message
         label: Message
