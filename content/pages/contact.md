@@ -17,6 +17,7 @@ sections:
         name: isACompany
         label: >-
           I'm a company
+        is_required: true
       - input_type: select
         name: subject
         label: Subject
