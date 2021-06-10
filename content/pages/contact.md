@@ -13,7 +13,7 @@ sections:
         label: Name
         default_value: What is your name
         is_required: true
-    - input_type: checkbox
+      - input_type: checkbox
         name: sadsa
         label: >-
           I understand that this form is storing my submitted information so I
