@@ -43,7 +43,6 @@ sections:
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
-        is_required: true
 
     submit_label: Send Message
 seo:
