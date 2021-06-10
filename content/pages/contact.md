@@ -18,7 +18,6 @@ sections:
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
-        is_required: true
       - input_type: email
         name: email
         label: Email
