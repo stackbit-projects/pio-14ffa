@@ -16,8 +16,7 @@ sections:
       - input_type: checkbox
         name: sadsa
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          I'm a company
       - input_type: email
         name: email
         label: Email
